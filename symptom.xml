@@ -1,0 +1,31 @@
+<diseaseslist>
+	<disease>
+		<mainsym>fever</mainsym>
+		<othersym>vomiting,diarrhoea,fatigue</othersym>
+		<name> typhoid</name>
+	</disease>
+	
+	<disease>
+		<mainsym>yellow skin</mainsym>
+		<othersym>fever,stomach-pain,chills</othersym>
+		<name>jaundice</name>			
+	</disease>
+	
+	<disease>
+		<mainsym>fever with chills</mainsym>
+		<othersym>headache,fatigue,sweats</othersym>
+		<name>malaria</name>	
+	</disease>
+	
+	<disease>
+		<mainsym>diarrhoea</mainsym>
+		<othersym>vomiting,fever,cramps,bloating</othersym>
+		<name>dysentery</name>	
+	</disease>
+	
+	<disease>
+		<mainsym>fever</mainsym>
+		<othersym>headache,running nose,diarrhoea</othersym>
+		<name> swine-flu </name>
+	</disease>
+</diseaseslist>
